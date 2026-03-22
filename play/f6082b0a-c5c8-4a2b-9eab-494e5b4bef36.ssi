@@ -1,41 +1,13 @@
 [
   {
     "domain": ".host2play.gratis",
-    "expiry": 1805722121,
+    "expiry": 1805723570,
     "httpOnly": false,
     "name": "FCNEC",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "%5B%5B%22AKsRol88QDOBfATuyv6oe_JaPsIEHoc-iK4jhkLGRCZ50djJvBbWmgyxaxCsSpdnz3qrOBsoh2gz6_2uYgQ2rA6ynAGkM95JVMyFaBOSCPX9wNhMW4aqNjP5ca-dKmvCSEFAFtN_yFnY4VAbJ6YlVEhmnJ-Fj_AREA%3D%3D%22%5D%5D"
-  },
-  {
-    "domain": ".host2play.gratis",
-    "httpOnly": true,
-    "name": "cf_clearance",
-    "path": "/",
-    "sameSite": "None",
-    "secure": true,
-    "value": "7iwGliXjI_Op3tORMsPd9EEWWzx2fuTmsR2iyBUqHMY-1774182215-1.2.1.1-nVCE.NOW6n6Ct7dEhHW9SzF5QPR87cg7KT.mj_o.mBLYc5myHk60vIXAJ.3y2ala5w6ebFJ_yyQmRdgvB3FMJAVjx13pye89crIdsIkzxXMXgXRX7SJIxkEEEtV0jGVUnbKPEfMHyjm7acTgcL5ekapadv_MTG4bGd.dYeb63s_vMcmrkhsAQJMaXD6rBvBdEKI3vz8hD.uCEIPY4lZH9pWrbNcuwUVTtV5HHNOCl1o"
-  },
-  {
-    "domain": ".host2play.gratis",
-    "expiry": 1805722116,
-    "httpOnly": true,
-    "name": "cf_clearance",
-    "path": "/",
-    "sameSite": "None",
-    "secure": true,
-    "value": "scXScHTPdD91GirvMrds9vmeEn6CA2ON8_eCwe8thz0-1774186116-1.2.1.1-V3EUBVh2tiAWXDi46xuOYL2_4OZOOLuVPiFAhS_k_e63whzFBZZd9o.jZDemi9yKaUhlRE7mCpGHBTaLnsEAIj3UpsFoYPvMwmxNKgweXYSC151M5Q_c3QKXG67dVX.Yjr08epXOhk3kJ1gtQfLEh7_mwzkEFvsm5BMshtYiSyhTD.dxHRz6jNuzPJCDwlNCHj41uJUhEk6i7Hmy2ANaHXcQd.kCXDw2VZ4h8y.oIPU"
-  },
-  {
-    "domain": "host2play.gratis",
-    "httpOnly": false,
-    "name": "_csrf",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "jYdLj495R3EkE2-HcajUjR1q"
+    "value": "%5B%5B%22AKsRol-8mcd3RB6-5DwhSiROZb3OIwmDonuX-HEfiAcAmehePenztS0L7je68uWHzwUZwa0w2fLjmdVU16UaxYhDSnuDGLrccuYNEMw4lhE5KH1pngy7r6llUYOizVyhwf5JVMaPrufZfJDRHxKuqhuIewnupBvtCw%3D%3D%22%5D%5D"
   },
   {
     "domain": ".host2play.gratis",
@@ -45,6 +17,34 @@
     "sameSite": "Lax",
     "secure": true,
     "value": "pXfnxdUQqF9bFycVJqB_1Sn7"
+  },
+  {
+    "domain": ".host2play.gratis",
+    "expiry": 1805723564,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "0SulHBN0Hk4HqpQQLH1ph0vRGh9zZD5r5.wO6zOXsP8-1774187564-1.2.1.1-1ZkEcTnLHD26m3Ptj3wo_gabCAEzFymKwlGGZvcloX6YTH3_edijPUuNg6KVkDgvw4MlBP.sa1mNL7dc6B7cAF2RPFB7hHN10VhHKLwuScG.02e2DMAql6I37MpXKwzCzpEbikEUqOEvDoPDuknuK9sYvgiltxNNzaXekRtpBqIN.XMwdLkeIfGVdDnV0AaPKENNfJGa06fCMVKLbeQvfVdXcRn1t_IQ52TFMChFUh0"
+  },
+  {
+    "domain": "host2play.gratis",
+    "httpOnly": false,
+    "name": "_csrf",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "TMqz29mJ0R9g96im6TqHsDU7"
+  },
+  {
+    "domain": ".host2play.gratis",
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "scXScHTPdD91GirvMrds9vmeEn6CA2ON8_eCwe8thz0-1774186116-1.2.1.1-V3EUBVh2tiAWXDi46xuOYL2_4OZOOLuVPiFAhS_k_e63whzFBZZd9o.jZDemi9yKaUhlRE7mCpGHBTaLnsEAIj3UpsFoYPvMwmxNKgweXYSC151M5Q_c3QKXG67dVX.Yjr08epXOhk3kJ1gtQfLEh7_mwzkEFvsm5BMshtYiSyhTD.dxHRz6jNuzPJCDwlNCHj41uJUhEk6i7Hmy2ANaHXcQd.kCXDw2VZ4h8y.oIPU"
   },
   {
     "domain": ".host2play.gratis",
@@ -58,22 +58,22 @@
   },
   {
     "domain": ".host2play.gratis",
-    "expiry": 1789729315,
-    "httpOnly": false,
-    "name": "__eoi",
-    "path": "/",
-    "sameSite": "None",
-    "secure": true,
-    "value": "ID=d294ed0f55bdee63:T=1774177315:RT=1774186119:S=AA-AfjZ7ilMiy1GT392fg_lxuJ1x"
-  },
-  {
-    "domain": ".host2play.gratis",
-    "expiry": 1807882120,
+    "expiry": 1807883569,
     "httpOnly": false,
     "name": "FCCDCF",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
     "value": "%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22c3e947ac-77c4-4462-9d82-ae7a2b9a2ce1%5C%22%2C%5B1774177315%2C987000000%5D%5D%22%5D%5D%5D"
+  },
+  {
+    "domain": ".host2play.gratis",
+    "expiry": 1789729315,
+    "httpOnly": false,
+    "name": "__eoi",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "ID=d294ed0f55bdee63:T=1774177315:RT=1774187569:S=AA-AfjZ7ilMiy1GT392fg_lxuJ1x"
   }
 ]
