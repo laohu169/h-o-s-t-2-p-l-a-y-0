@@ -1,0 +1,61 @@
+[
+  {
+    "domain": ".host2play.gratis",
+    "expiry": 1807873779,
+    "httpOnly": false,
+    "name": "FCCDCF",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22c3e947ac-77c4-4462-9d82-ae7a2b9a2ce1%5C%22%2C%5B1774177315%2C987000000%5D%5D%22%5D%5D%5D"
+  },
+  {
+    "domain": ".host2play.gratis",
+    "expiry": 1805713315,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "4EexE2MCvYawiWREPVZPjAP03a0ohAOFNLkhXx6AzK4-1774177315-1.2.1.1-V4siSzCUAPC9eZSr7XXddpHsRpBttrcw1IZISKRJU3A_tB5huAFJtmCVgKGo.twqfz2cGyR4IRmCEPlnHFzK1dzm5DFOkRvgathUT4K1.Rz9xVaaD5pxrZgnlO0AG_ZWipUs1PZ8Jmx3VwZCKIrZCgVsz72jj5_k0HqTDlClSOZkFmSeg7H8TcFJmohDAWKFcBpBodhR0e8ernC5lg62MXeEx6JLafCCpRSGzulnyiM"
+  },
+  {
+    "domain": "host2play.gratis",
+    "httpOnly": false,
+    "name": "_csrf",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "pXfnxdUQqF9bFycVJqB_1Sn7"
+  },
+  {
+    "domain": ".host2play.gratis",
+    "expiry": 1781953315,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.1101708380.1774177315"
+  },
+  {
+    "domain": ".host2play.gratis",
+    "expiry": 1789729315,
+    "httpOnly": false,
+    "name": "__eoi",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "ID=d294ed0f55bdee63:T=1774177315:RT=1774177779:S=AA-AfjZ7ilMiy1GT392fg_lxuJ1x"
+  },
+  {
+    "domain": ".host2play.gratis",
+    "expiry": 1805713780,
+    "httpOnly": false,
+    "name": "FCNEC",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "%5B%5B%22AKsRol_Y_-5PPGPGAwGJ9UMnkNsnyTVjo6W8QhD_s1hd7GOv6up9BD9In21B37FYxUhOsCPW_ldvjl6WdzEwRSo9Zg_W3cnv9G-2fA9fC3Rd17ZtUCMEyjpOwBLsjDyUEXqVMYk31NNUpEiA3h5Wyc2ElFJiHqvQiw%3D%3D%22%5D%5D"
+  }
+]
