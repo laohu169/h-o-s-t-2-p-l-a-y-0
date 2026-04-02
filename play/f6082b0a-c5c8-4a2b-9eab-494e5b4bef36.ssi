@@ -1,22 +1,32 @@
 [
   {
     "domain": ".host2play.gratis",
-    "expiry": 1806649375,
+    "expiry": 1808825746,
     "httpOnly": false,
-    "name": "FCNEC",
+    "name": "FCCDCF",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "%5B%5B%22AKsRol-Q8BTVIKRrLXg4JthJCcvJzfiowG6minslYi4DelTAlB5QlxfFrH6SYJmQX7q4Y30EkXFX05kaTqUfviTULvoSXGT9udUTCOcBFxsTsSx4b4if2bPtXENgKm5DBSjV6lMwJEO1D6bzFPGzhNYa6w4UFQqiVQ%3D%3D%22%5D%5D"
+    "value": "%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22c3e947ac-77c4-4462-9d82-ae7a2b9a2ce1%5C%22%2C%5B1774177315%2C987000000%5D%5D%22%5D%5D%5D"
   },
   {
     "domain": ".host2play.gratis",
+    "expiry": 1806665088,
     "httpOnly": true,
     "name": "cf_clearance",
     "path": "/",
     "sameSite": "None",
     "secure": true,
-    "value": "Ps83KSkiV8_Ume35P4T5JYqbZT4Ihv1tV7JBzglR8pg-1775102765-1.2.1.1-dXbREruWkQcNHqo4fbXI7AeldGisPw4v8e3O0WiptYuI_5kC6sJZDV9nG9WMmUZ864BKXWYUQlbPTAnrUghiLYAeiWe0mWmqdTtCQqG7jHK1cN.Xe4HjZX72Y3pD9LBXPtp2DmTrGWo7YWxVF6hYdzUFoT_IRCT6s2xISAFJvN3R_dg48jW_zncd8L1oZhlgF2NdYIDN5gOG8XeEOlUzv34E2ZYnD0Sz3_gQrRsdDLQ"
+    "value": "f3a207q5O8enCIf..uqG0ktRx8qCCbRlX4vE8fatVr8-1775129088-1.2.1.1-JhU05T4msHFap2AdWCDU6fhfVz2D8quog8MQzsHgwsYeJGSZYP23xFGQ..HtLEwBtwHpY1bTL3j1wCg.9AIfFr7qC_h0MNNyp_Oo5otg4oU3tYDwZJKmbYBnwWdN2r9pASHZ8dXGHlkqOeZp42vNKfZhi87.PwM8f6C_D1rUW8cJvnqPHDOzhVDUb17y12OAK9NjUkxKO0cbUnitTLw4CbcbXoiKazppbAQyL4dhDOk"
+  },
+  {
+    "domain": "host2play.gratis",
+    "httpOnly": false,
+    "name": "_csrf",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "Si-0PYlGxdJ6SlsUaV1cZ-Bp"
   },
   {
     "domain": ".host2play.gratis",
@@ -29,13 +39,23 @@
     "value": "1.1.1101708380.1774177315"
   },
   {
-    "domain": "host2play.gratis",
+    "domain": ".host2play.gratis",
+    "expiry": 1789729315,
     "httpOnly": false,
-    "name": "_csrf",
+    "name": "__eoi",
     "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "0MgpQ9pkOmQwNd5Eqrc8fQ_6"
+    "sameSite": "None",
+    "secure": true,
+    "value": "ID=d294ed0f55bdee63:T=1774177315:RT=1775129746:S=AA-AfjZ7ilMiy1GT392fg_lxuJ1x"
+  },
+  {
+    "domain": ".host2play.gratis",
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "4QG2avhOqfevtx_fz1ewBY6SyThrpCq10S.oI1Bw4TY-1775113374-1.2.1.1-OPfW2qQ1rjcR32bBRBG1bQ0meOXgEQKycuNfZWGuUPkTGg5rLuwtPyMhmYhIdGXiYrzLD6pBH5NmJamID3YA.4pXJKu5bWAH9YlzWBuLyTOMEhKIRNd7fngOr9gozlveCdtk.uCqVQtqUs.o0QEWBm96PaBs6H1wdYwibxz6uuWDzEwx4NsRXmvKDHL9CBeeNj8uHYWpRoAfuSmaIB3YoCwunPq.V8jUYrxmX06rsjg"
   },
   {
     "domain": ".host2play.gratis",
@@ -48,32 +68,12 @@
   },
   {
     "domain": ".host2play.gratis",
-    "expiry": 1789729315,
+    "expiry": 1806665747,
     "httpOnly": false,
-    "name": "__eoi",
-    "path": "/",
-    "sameSite": "None",
-    "secure": true,
-    "value": "ID=d294ed0f55bdee63:T=1774177315:RT=1775113374:S=AA-AfjZ7ilMiy1GT392fg_lxuJ1x"
-  },
-  {
-    "domain": ".host2play.gratis",
-    "expiry": 1808809375,
-    "httpOnly": false,
-    "name": "FCCDCF",
+    "name": "FCNEC",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22c3e947ac-77c4-4462-9d82-ae7a2b9a2ce1%5C%22%2C%5B1774177315%2C987000000%5D%5D%22%5D%5D%5D"
-  },
-  {
-    "domain": ".host2play.gratis",
-    "expiry": 1806649374,
-    "httpOnly": true,
-    "name": "cf_clearance",
-    "path": "/",
-    "sameSite": "None",
-    "secure": true,
-    "value": "4QG2avhOqfevtx_fz1ewBY6SyThrpCq10S.oI1Bw4TY-1775113374-1.2.1.1-OPfW2qQ1rjcR32bBRBG1bQ0meOXgEQKycuNfZWGuUPkTGg5rLuwtPyMhmYhIdGXiYrzLD6pBH5NmJamID3YA.4pXJKu5bWAH9YlzWBuLyTOMEhKIRNd7fngOr9gozlveCdtk.uCqVQtqUs.o0QEWBm96PaBs6H1wdYwibxz6uuWDzEwx4NsRXmvKDHL9CBeeNj8uHYWpRoAfuSmaIB3YoCwunPq.V8jUYrxmX06rsjg"
+    "value": "%5B%5B%22AKsRol__JXZen7juqoXHyDHbl9PCqcpugLpWhRYdLIyUtysdaCYghQImmgMNewKnyTihmCFhY7nEs8aKS2Cv-daXj6ruTkodlKDjWSPrKq3ilJ9WlMdEPLJ4IYo2YTkNCWr85qIIPMTu3bp6LT08jkbruSgAl7p-Lg%3D%3D%22%5D%5D"
   }
 ]
