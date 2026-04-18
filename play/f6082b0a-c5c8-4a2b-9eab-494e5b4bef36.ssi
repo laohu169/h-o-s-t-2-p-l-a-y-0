@@ -1,13 +1,12 @@
 [
   {
     "domain": ".host2play.gratis",
-    "expiry": 1808029084,
-    "httpOnly": false,
-    "name": "FCNEC",
+    "httpOnly": true,
+    "name": "cf_clearance",
     "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "%5B%5B%22AKsRol9x-fbG-d2kvxYdbSRaOZ97DQHCcrbPqMaYwourApbl2H6rbCQTTOYk1bwiJwpADnE598aI2mWgrohqdpeb7cD0PaqEV-PMeD0Y_JxuOfM1gHgXRFcabqRx7jY4VB4R-drM_RYxhXvDgMkqdpDYOh0_qfB2Og%3D%3D%22%5D%5D"
+    "sameSite": "None",
+    "secure": true,
+    "value": "SXb9w5vu0_FxohzbFt7k0qmT3KRuFqjUY_B6X0ikmRY-1776492933-1.2.1.1-DV6KWO0R1YT7ZfPrF9exRKg_b4EAdPJnfCBskNwhdYtZnhKt5O8NyXgM.hnSc0VZxZ43JvGyZ_1eAf2Sb4Ynf9px7CmXM0FY768kvWtSHRH434.CiUA0PctjvKzFdGXvlS124HBRff8YnhY8nQvpHWTVwI3IskFNxh.ltWCxqSqtvyqMKyIlmhjoiBkqH.4YJsUM_BrMLjyT3Ds.j5jf4nrK29ymcAybtiEScTkNHYcrG2aZyPoGYdzBasFNHQAohGidwumZdR3TIjyoCqNmPHt8CtWyyQVFzTZQJj75Ofvaw91BEVDgyds_JqZ6mnBzlQIMEs13xH73pwBS9vwogg"
   },
   {
     "domain": ".host2play.gratis",
@@ -16,16 +15,7 @@
     "path": "/",
     "sameSite": "Lax",
     "secure": true,
-    "value": "VE4a28WPB7LdNprQ7PyAhFtD"
-  },
-  {
-    "domain": ".host2play.gratis",
-    "httpOnly": true,
-    "name": "cf_clearance",
-    "path": "/",
-    "sameSite": "None",
-    "secure": true,
-    "value": "Q6ZiFXEJPwF8VgYceWOaPQWJINEubx5B8HDxq1fTzWs-1776481277-1.2.1.1-41iSuRnykH8GFHiyP5wT2ZlBuJJITOYA4lJVMtBnGibzlkAxQvFC8lG9wNW43p7tKjwy5lYw6Avi4c6J82rrGYNqGja1vPj6Ky.B3XItktSkGF9RufoShl4o2W7txu7UBrsNnzR4EEDVJTeEXey.GUCIWjmBtjYYbvdLbMWtbu0vLeQwbtUGzPFoJLqCHHSX.0yKsW17E.jo_Zf_wxA89H9o7L55CoAt.fdnyiqX50N0tY1dx5qwWo6IG1qkeqxVydo6WzZ5BPaDuFWbx4Kq7m7Nid2vunj8poiEmj5Vt7ITaIDvlOq8tvVBHCxosRcMRcFJKmWqrhRMbgGyeGC8CQ"
+    "value": "QCtQk5K3wWoms6w28zFfgyZm"
   },
   {
     "domain": "host2play.gratis",
@@ -34,17 +24,27 @@
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "QCtQk5K3wWoms6w28zFfgyZm"
+    "value": "X-ak-hVeNLrrWHJ9wxYVXQEU"
   },
   {
     "domain": ".host2play.gratis",
-    "expiry": 1808028933,
+    "expiry": 1808041284,
     "httpOnly": true,
     "name": "cf_clearance",
     "path": "/",
     "sameSite": "None",
     "secure": true,
-    "value": "SXb9w5vu0_FxohzbFt7k0qmT3KRuFqjUY_B6X0ikmRY-1776492933-1.2.1.1-DV6KWO0R1YT7ZfPrF9exRKg_b4EAdPJnfCBskNwhdYtZnhKt5O8NyXgM.hnSc0VZxZ43JvGyZ_1eAf2Sb4Ynf9px7CmXM0FY768kvWtSHRH434.CiUA0PctjvKzFdGXvlS124HBRff8YnhY8nQvpHWTVwI3IskFNxh.ltWCxqSqtvyqMKyIlmhjoiBkqH.4YJsUM_BrMLjyT3Ds.j5jf4nrK29ymcAybtiEScTkNHYcrG2aZyPoGYdzBasFNHQAohGidwumZdR3TIjyoCqNmPHt8CtWyyQVFzTZQJj75Ofvaw91BEVDgyds_JqZ6mnBzlQIMEs13xH73pwBS9vwogg"
+    "value": "R4rT73v2PKRcQ2EnoeT_f62i0OUtAdmsi7Dk8JVJh7I-1776505284-1.2.1.1-NMQF1pWMdYQeK91enFi2ft9BD71cOO44j2N_8mfy4BKVwbD1RRL2y7DTqaGr6BiJsO19NAXbCJ1GNkuIQnU4XISJdol2quaZHH0OYPe5d0Z4Fqfq91z0qEfNk2crCn7OpGk49Sciouf3C22Sg0wDEiOYXIEikAIbrqqJTO4DZnr7V84_NRSHgD0bl5RNlSix6aIIMH6GcQJvRD2CdRszg_VxRz_5uN70PDD.YZGESUf.P3tO0dxpEhvPSTSC.a52eIgXy_8nU84XA2W3qgShyqVYUSxx.ncmVOSgMsOSB3Lu9H1D381.1mJ5Wt2QyQpvfG2S9G3it7yiUT0lNKFfLg"
+  },
+  {
+    "domain": ".host2play.gratis",
+    "expiry": 1789729315,
+    "httpOnly": false,
+    "name": "__eoi",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "ID=d294ed0f55bdee63:T=1774177315:RT=1776505287:S=AA-AfjZ7ilMiy1GT392fg_lxuJ1x"
   },
   {
     "domain": ".host2play.gratis",
@@ -58,22 +58,22 @@
   },
   {
     "domain": ".host2play.gratis",
-    "expiry": 1789729315,
-    "httpOnly": false,
-    "name": "__eoi",
-    "path": "/",
-    "sameSite": "None",
-    "secure": true,
-    "value": "ID=d294ed0f55bdee63:T=1774177315:RT=1776492936:S=AA-AfjZ7ilMiy1GT392fg_lxuJ1x"
-  },
-  {
-    "domain": ".host2play.gratis",
-    "expiry": 1810189084,
+    "expiry": 1810201436,
     "httpOnly": false,
     "name": "FCCDCF",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
     "value": "%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22c3e947ac-77c4-4462-9d82-ae7a2b9a2ce1%5C%22%2C%5B1774177315%2C987000000%5D%5D%22%5D%5D%5D"
+  },
+  {
+    "domain": ".host2play.gratis",
+    "expiry": 1808041437,
+    "httpOnly": false,
+    "name": "FCNEC",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "%5B%5B%22AKsRol-GVv4-HfYPIMd2MI61gWPaMhfxkG_XmIuT_izBGkmKnhYTtUjh7__5LrNG3AlvP1lYe11XZNQle9a0UNXwuuLMkQclrbPve70lPw3iApbSzuly4kdNzooGUxAageAX8mDf2uMIKErLNt3VmqKXKV50lqhnKw%3D%3D%22%5D%5D"
   }
 ]
