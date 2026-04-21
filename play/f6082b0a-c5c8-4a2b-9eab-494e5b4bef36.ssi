@@ -1,13 +1,13 @@
 [
   {
     "domain": ".host2play.gratis",
-    "expiry": 1808326112,
+    "expiry": 1808328098,
     "httpOnly": false,
     "name": "FCNEC",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "%5B%5B%22AKsRol9gfWqlKIzORVN189OU8V2NKHtjsJRNtSJhFGv4trQ0aIoIYb3-X4lwvL2Gxkrq2hh0LESgSmfRjlkFN_pvlY2AM_G9DnLfq0vcaHP5F9DrqMTRTRLNXEh1T9H-NMIwN_dj0UVXwoiKHW_ruD-GWTpPsHdBzQ%3D%3D%22%5D%5D"
+    "value": "%5B%5B%22AKsRol9tZbssIWdRfjOom7UN7e2rLVnpxhh9751fOB6tJIbRFxiYgBveMBV1nBlCXPd6y9zQ1SRCy-421jVC32iCZ9_kqburtxLMAYd2loGbGWgufozhL4oQc1JXXbC0xTRrexxmVztcGT_S3xC99nFc2608LZwTtA%3D%3D%22%5D%5D"
   },
   {
     "domain": ".host2play.gratis",
@@ -16,7 +16,7 @@
     "path": "/",
     "sameSite": "None",
     "secure": true,
-    "value": "MqgXgGA3L33kJ_yDBzxuJDmFLNCXMHIjQBMN7z0e5zw-1776779953-1.2.1.1-YQxRNsFtlorYiXMwqSaOpy11epi3UtxrYfP7PwJgUHd6KG2wInOckT_RfBqPiRFHuBG7U89i3KtRyZx6v.jqxjPDvONfgZMnxnLyZcNKlJNy1XG6i8aSLFUZd.QOqvAP4UBQQirjxY6yjP4zg2MxE.bmd8895Vf1FNC_qidF8rXlXvTJEUGLrQdSjWpb3QLOxPjTSAi3oSqOEXTCiwy7rdL5vUP41Uy0SLevSWCTzP3q.XW57QKyjmF.L6nW8aCclr71ya2ml.s1QF6iXzsROglwBFt2.iRzioLCAOt72YJzH7uoWUP.XykYK2Cor_YRIcVXN5_T7q0pAYJDZyzUdQ"
+    "value": "3Lb.Y_QxHdni7rj8pDkmTYLGncGll874mnKcIupoeHQ-1776789428-1.2.1.1-a4n8uApWDloeSe2sJGUdOOgJwxNztvz7c.hDNBsYG3brHaDhtFzQKSO22hamz0Tq1FHa2bW7XT4Kg91BDQU8PtUQu3vLffNasGh8jZrlC87jU97VgM.EqhEhjtbw1f1YdvkrID4N.A8XxFbTwocTJrf8_2Pio4JvWqwHDw0ZLPUiAeKPkenfGugJ2g5NMEuQp48RiS0lK9pRqE4N56TRP4DtvWFM88KFCCfWDoLux2NfLCZzr.lfcYjNnrwv9NfcHiXfpmBmF_UYrjgr.Cv8d9q3QyXc1REQjYX_l9XGDm0vFHOrAWbaVY.7WDQcYqkqNWdpPyJxIPVO3Zbn.EXxaw"
   },
   {
     "domain": ".host2play.gratis",
@@ -25,7 +25,7 @@
     "path": "/",
     "sameSite": "Lax",
     "secure": true,
-    "value": "BymJ3At-RyOEfV1joRV4SVar"
+    "value": "IAPCS1_L7rNHUYC52LVfMtXt"
   },
   {
     "domain": "host2play.gratis",
@@ -34,17 +34,17 @@
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "IAPCS1_L7rNHUYC52LVfMtXt"
+    "value": "_-qthdPGqnMytMEGjnWWoe9s"
   },
   {
     "domain": ".host2play.gratis",
-    "expiry": 1808325428,
+    "expiry": 1808328094,
     "httpOnly": true,
     "name": "cf_clearance",
     "path": "/",
     "sameSite": "None",
     "secure": true,
-    "value": "3Lb.Y_QxHdni7rj8pDkmTYLGncGll874mnKcIupoeHQ-1776789428-1.2.1.1-a4n8uApWDloeSe2sJGUdOOgJwxNztvz7c.hDNBsYG3brHaDhtFzQKSO22hamz0Tq1FHa2bW7XT4Kg91BDQU8PtUQu3vLffNasGh8jZrlC87jU97VgM.EqhEhjtbw1f1YdvkrID4N.A8XxFbTwocTJrf8_2Pio4JvWqwHDw0ZLPUiAeKPkenfGugJ2g5NMEuQp48RiS0lK9pRqE4N56TRP4DtvWFM88KFCCfWDoLux2NfLCZzr.lfcYjNnrwv9NfcHiXfpmBmF_UYrjgr.Cv8d9q3QyXc1REQjYX_l9XGDm0vFHOrAWbaVY.7WDQcYqkqNWdpPyJxIPVO3Zbn.EXxaw"
+    "value": "FOfzlJ5RmTObhHgPN70Sh7z9ePITqPIfH.WlJblfoco-1776792094-1.2.1.1-uAcDxTccg8A4BFjdebzKwXohQBsWjh6HaZqG5_00.mWEtAow_0YciGpmnlMknQPif925gb6rumcJb8hmeFuy1eH5bllhrL9GDjGulMem3U5pqBOMKErxPLdoG9AOa9K_hMfuYMWPW9mOrlhctHmt6GFKX_v1v5udrZ75JoJ7SzxCvzWfSTlCBp.7ostiunJqdiQG.acJkZaP2agA6_fyVe0oC5hJ_s0T8oeSr_rJGuFjH.f5rFzHQ9a_ajxQLOkjFZ90Wc1NZvQubBSKgfz1KNyyPE1KzGRtAcn_4Ut7RVsRikwvhwGFzUsJEvdL2VfzeDa.1Q_i754VBz6YGRD_Pg"
   },
   {
     "domain": ".host2play.gratis",
@@ -58,22 +58,22 @@
   },
   {
     "domain": ".host2play.gratis",
-    "expiry": 1792143856,
-    "httpOnly": false,
-    "name": "__eoi",
-    "path": "/",
-    "sameSite": "None",
-    "secure": true,
-    "value": "ID=5d0f12b25f285b66:T=1776591856:RT=1776789960:S=AA-Afjaugt2KaFyN2uM00IJvfgW4"
-  },
-  {
-    "domain": ".host2play.gratis",
-    "expiry": 1810486111,
+    "expiry": 1810488097,
     "httpOnly": false,
     "name": "FCCDCF",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
     "value": "%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22c3e947ac-77c4-4462-9d82-ae7a2b9a2ce1%5C%22%2C%5B1774177315%2C987000000%5D%5D%22%5D%5D%5D"
+  },
+  {
+    "domain": ".host2play.gratis",
+    "expiry": 1792143856,
+    "httpOnly": false,
+    "name": "__eoi",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "ID=5d0f12b25f285b66:T=1776591856:RT=1776792097:S=AA-Afjaugt2KaFyN2uM00IJvfgW4"
   }
 ]
