@@ -1,41 +1,13 @@
 [
   {
     "domain": ".host2play.gratis",
-    "expiry": 1811018728,
+    "expiry": 1792598454,
     "httpOnly": false,
-    "name": "FCCDCF",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22c3e947ac-77c4-4462-9d82-ae7a2b9a2ce1%5C%22%2C%5B1774177315%2C987000000%5D%5D%22%5D%5D%5D"
-  },
-  {
-    "domain": ".host2play.gratis",
-    "httpOnly": false,
-    "name": "_csrf",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": true,
-    "value": "55Ro1YJswa1wgsVx85TRBUZN"
-  },
-  {
-    "domain": "host2play.gratis",
-    "httpOnly": false,
-    "name": "_csrf",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "UxM9qB-r22mN7w9wNk59qzHt"
-  },
-  {
-    "domain": ".host2play.gratis",
-    "expiry": 1808858280,
-    "httpOnly": true,
-    "name": "cf_clearance",
+    "name": "__eoi",
     "path": "/",
     "sameSite": "None",
     "secure": true,
-    "value": "NZojxdrkn.Hl6RoJesrz5YlB44.4Hvet4Al67a6vhsg-1777322280-1.2.1.1-Ga0z.ZwKsJ8cAA4H3BfObEqyXiUkUNvlKicrUZMTjzR8I9PawlTtNljII2XkqBdptym189xSk8VhsI1t5c8bAw.rjQ_kVEVENtm4SbSWHHijeMXwY0xYOA1CKn8XdCyBqCRKEx4QVuKPKMqcOmdEGfOzGIphRklrez85td1sNPBAvISNIpxmG.bzteswvopwV1cmAdupv.55Lm3YnZ3gM__H5_RsvBBFQY4PaVSt2.HEUqZa8Sn_sttDpxB7RrBwsD98sXjP4Y1A7WMqZGOYHJEBfTszWGNvvsxRlY0eFgeZz_gPLj_9TT_nPgfLS9zWkVx1FeK9hatPSB7_N1S_yA"
+    "value": "ID=52696c444a830164:T=1777046454:RT=1777327080:S=AA-Afjb7HnXEeoCypyicISWNpYGG"
   },
   {
     "domain": ".host2play.gratis",
@@ -47,14 +19,42 @@
     "value": "MXZwGsbg0Da2b2AS7Cw.9fFoALITkJwyrkKmrJMNHVE-1777296332-1.2.1.1-9wpeFWd_UbPpd3m0vs8Tc_pzlanwu2HLNSLicstDT2Hvhc5IX_DJDHDJraksT6Mo0oOdnvAExbMGadhm5EcohdM_mESU7y_.BlsfsI5.UKamzWSvIdcTcWDqKwUIaXhf05y4r12qKxvaPEJuiW_3WyQXqNaZVwO9a6O.JgxV_LNoUu7q9BVKYM0m232xUe35V_uEwCjky2H9KVB.N4b7i285Tnd4u76gD.2pJzqM8UV4IOj3wVYWQzc9fx7Rlc5x7vEBM9ztFeWRLrY2ZT.zoETkKxRYbnyFzWwIs4A6Y4Mp6Mj8ohVpdd.GugT8Ak7FcnCA7j4LyGMu864iezVfvA"
   },
   {
-    "domain": ".host2play.gratis",
-    "expiry": 1792598454,
+    "domain": "host2play.gratis",
     "httpOnly": false,
-    "name": "__eoi",
+    "name": "_csrf",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "vCGNbP4oL3l9g-kXxTLdVxqy"
+  },
+  {
+    "domain": ".host2play.gratis",
+    "httpOnly": false,
+    "name": "_csrf",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "UxM9qB-r22mN7w9wNk59qzHt"
+  },
+  {
+    "domain": ".host2play.gratis",
+    "expiry": 1808863379,
+    "httpOnly": true,
+    "name": "cf_clearance",
     "path": "/",
     "sameSite": "None",
     "secure": true,
-    "value": "ID=52696c444a830164:T=1777046454:RT=1777322728:S=AA-Afjb7HnXEeoCypyicISWNpYGG"
+    "value": "M8L7khxvpY0DimnnXFfDbPyD20OYMCBS10YHI5.O_Kw-1777327379-1.2.1.1-AT3HZyOaiGrzo2ApPhzjuiFun2QO8OO3qJo9GyriasXrIERFIiHukqmloLs7_if1NoYnN_j144m.u_Yu4B1ac.K661ErFmBBkhiEZWLborGbkEqwqvZaklErDl7Q5l5oETtyZgjDcJJa6UzZicdgVKya4nUS.DzEKX21c8WkD_ZW8st6WK0vLvwcRGXqNFpmd4P1u54nhdmaI_BVQyMPgdWGs78KfzSKGdl07L8EJCMLPUpHIC2_MyllQFo5vBxcFl08x8X3C2pCyEAfXsD2iWahGpYDgu6nzsQAQH4cz6_14Lug9kSmDxHlqsAYI5hywOjhCvjB0H6YVwDXc9gT2w"
+  },
+  {
+    "domain": ".host2play.gratis",
+    "expiry": 1811023379,
+    "httpOnly": false,
+    "name": "FCCDCF",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22c3e947ac-77c4-4462-9d82-ae7a2b9a2ce1%5C%22%2C%5B1774177315%2C987000000%5D%5D%22%5D%5D%5D"
   },
   {
     "domain": ".host2play.gratis",
@@ -68,12 +68,12 @@
   },
   {
     "domain": ".host2play.gratis",
-    "expiry": 1808858729,
+    "expiry": 1808863380,
     "httpOnly": false,
     "name": "FCNEC",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "%5B%5B%22AKsRol_3IR1FO_unPijZtXbKo_0LY_uCr7wjanut7XSW7DmY0TfNU-g5_KhdSnVce1BU5Ud-k3W5oN1OqacNdR9CA-o7EHM8bSZeskLzFOu3dYgm02nrT7XAIX5uwlb_S60FBcXZMBXUpE9JRaFdM7UHAHONseKm3g%3D%3D%22%5D%5D"
+    "value": "%5B%5B%22AKsRol_W-EbeJpYM7FRKP0u-coiAgYlkbzaqRFsgDOF8EGPotumybo1Jd5QdA8gz_swBWyUh6ipXvVwXCgUfCJ0mnG2XApQI11_qcEwRduub4NUSGAhHzrc8okWovaLB22F8pdFXiTdyed0XLh-umn98ZRH7F4zboA%3D%3D%22%5D%5D"
   }
 ]
