@@ -1,13 +1,13 @@
 [
   {
     "domain": ".host2play.gratis",
-    "expiry": 1809175594,
+    "expiry": 1809182721,
     "httpOnly": false,
     "name": "FCNEC",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "%5B%5B%22AKsRol9hObfKEjsGv4mAvukKqg5CROaXlwS7VM3jMEgh-p7t7L27WF1DB_2pOoKI8Hw5r6Itd8yAKJ4S6EXNEwmNQyd8TkIr8koNBu7zZnBy2Ce3LB-rsWATu3FExnud8VwEuHSajMVljYVeEby_DGXddHSPeSFzBg%3D%3D%22%5D%5D"
+    "value": "%5B%5B%22AKsRol8jVhau8Y9ibAKFCCBhQ4e9M-xU-jnahZGTtC7-tV9l90IEcWXOJactOomv3Q-6uIlQ3zs8PDsqsP_i48CWDqG96TmhontOtmNs6uvt-XR0lofILBoL9fkhTMiYvnE8Q--ZiFBspoHYg3JGsdfHEDrs8RgDjQ%3D%3D%22%5D%5D"
   },
   {
     "domain": ".host2play.gratis",
@@ -16,7 +16,26 @@
     "path": "/",
     "sameSite": "Lax",
     "secure": true,
-    "value": "xLjZUVfocFWY6bPFz134UAOg"
+    "value": "d1XFygYC1sHYah_pBiI1Gvgs"
+  },
+  {
+    "domain": ".host2play.gratis",
+    "expiry": 1809182566,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "bLIkdD6e.j9GZnxkBcjGo63o32WtYtRYkh7Kj3lPAms-1777646566-1.2.1.1-4Qxh7QWu9MJQsb6wPnLZRq_xkEdwO5SQOn_mmstRvCXKa4cGRCKP37XDyVkijJq4PpAQHZNU7Xjv.E8Hpt7jJGiBB6YvksFMe.RHwv6thLqnG9NqxPH.xwadbZzridfkQ9Sd57lVQ2cRn_MKZeS5ziCAJ97lxL3xrtHuZBEfYNsjx3g1iX9l06Ekh5rmgy1mpuQzn.mnt1CpN9zRfEdKbyU20nxBa38WsUUAj_dFwyEGKYvwYIU_nVkuPg7YELqfG9qsuM8RRIx4Ak_7s6z2mbsR2Ee_JPKlrlnamrIlxbvprReottwziGVufmrLTK66nrtnwbsfQbJbEZjXEKFDDQ"
+  },
+  {
+    "domain": "host2play.gratis",
+    "httpOnly": false,
+    "name": "_csrf",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "8jDl57rLb8NAYRseyXbdxPM_"
   },
   {
     "domain": ".host2play.gratis",
@@ -27,25 +46,6 @@
     "sameSite": "Lax",
     "secure": false,
     "value": "1.1.1101708380.1774177315"
-  },
-  {
-    "domain": "host2play.gratis",
-    "httpOnly": false,
-    "name": "_csrf",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "d1XFygYC1sHYah_pBiI1Gvgs"
-  },
-  {
-    "domain": ".host2play.gratis",
-    "expiry": 1809175153,
-    "httpOnly": true,
-    "name": "cf_clearance",
-    "path": "/",
-    "sameSite": "None",
-    "secure": true,
-    "value": "EU2ZsqqeyStYszRLDy2FfJgfciSujP1sr72_IJVET9M-1777639153-1.2.1.1-cYFruYmgXNE.2O9E_lFfEgoyg2roQC5JeURzUV5xv4AJ4KhYLXNUGSxMBdaDKGIiZZ34jbCz_Z8MMzzdBwY04ZAJC58v9l2O.5417TlJKack1YE_GdXFHFotEgAXqOzXLqO2NMMFZyZLRrecIyRJMuw.5nTvhYfryLd3_YjhAMfhBUD7OXlWmiPS0ifpP4zeWIqho6tnujUBjtkiv6QSmF3h87EStYibEqUiFFjAyv1TCXHBnViNct9UmNso8SI2LzsJq3yFPVcndEcJUWlgXSXseIOMK31GLO9CBjsZ.w1qHwOt1VUwY.Cecv0rmcRId_OSfw9sgPEB_kzrL3Sr0w"
   },
   {
     "domain": ".host2play.gratis",
@@ -64,11 +64,11 @@
     "path": "/",
     "sameSite": "None",
     "secure": true,
-    "value": "ID=52696c444a830164:T=1777046454:RT=1777639592:S=AA-Afjb7HnXEeoCypyicISWNpYGG"
+    "value": "ID=52696c444a830164:T=1777046454:RT=1777646568:S=AA-Afjb7HnXEeoCypyicISWNpYGG"
   },
   {
     "domain": ".host2play.gratis",
-    "expiry": 1811335593,
+    "expiry": 1811342720,
     "httpOnly": false,
     "name": "FCCDCF",
     "path": "/",
